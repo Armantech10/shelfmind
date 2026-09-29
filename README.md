@@ -1,6 +1,6 @@
 <div align="center">
 
-# ShelfMind AI 🚀
+# ShelfMind 🚀
 ##The Intelligent Operating System for Modern Retailers
 
 [![ShelfMind-AI Powered](https://img.shields.io/badge/ShelfMind-AI%20Powered-7c3aed?style=for-the-badge)](https://github.com/Armantech10/shelfmind-ai)
